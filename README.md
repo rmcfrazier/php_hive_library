@@ -25,7 +25,7 @@ You should see the following output from composer
 Loading composer repositories with package information
 Installing dependencies
 
-  - Installing rmcfrazier/php_thrift (0.9.0)
+  - Installing rmcfrazier/php_hive_library (0.11.0)
     Loading from cache
     
 Writing lock file
@@ -40,5 +40,4 @@ Each version will be in its own tag.
 
 Versions in this repo
 ---------------------
-- 0.9.1
-- 0.9.0
+- 0.11.0
