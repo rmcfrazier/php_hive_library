@@ -1,0 +1,24 @@
+{
+    "name": "rmcfrazier/php_hive_library",
+    "type": "library",
+    "description": "Generated PHP from TCLIService.thrift",
+    "keywords": ["php","thrift", "tcliservice"],
+    "homepage": "http://github.com/rmcfrazier/php_hive_library",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "Robert McFrazier",
+            "email": "robert@mcfrazier.com",
+            "homepage": "http://blog.robert.mcfrazier.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Apache\Hive\Service\Cli\Thrift": "src"
+        }
+    }
+}
